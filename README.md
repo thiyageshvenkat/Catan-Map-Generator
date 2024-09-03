@@ -2,7 +2,7 @@
 
 A Catan map generator.
 
-**Expansions Supported**
+## Expansions Supported
 - Base Game
 - Cities and Knights
 - Seafarers
