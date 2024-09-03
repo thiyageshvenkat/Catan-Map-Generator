@@ -1,3 +1,8 @@
 # Catan-Map-Generator
 
-A Catan map generator, so far only including the eight scenario for Catan Seafarers.
+A Catan map generator.
+
+**Expansions Supported**
+- Base Game
+- Cities and Knights
+- Seafarers
