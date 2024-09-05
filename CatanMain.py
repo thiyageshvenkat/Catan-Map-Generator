@@ -12,7 +12,7 @@ for i in range(4):
     board[1][1 + i] = tiles.pop(0)
 for i in range(5):
     board[2][i] = tiles.pop(0)
-for i in range(4): ##### THE MIDDLE ONE WITH THE BUILT IN OCEAN TILES
+for i in range(4): 
     board[3][1 + i] = tiles.pop(0)
 for i in range(3):
     board[4][1 + i] = tiles.pop(0)
@@ -37,11 +37,11 @@ for i in range(len(board_numbers)):
     if i % 2 == 1:
         print(" ")
         for j in board_numbers[i]:
-            print(j.rjust(3).ljust(6), end = " ")
+            print(j.rjust(3).ljust(4), end = "")
     else:
         print("  ")
         for j in board_numbers[i]:
-            print(j.rjust(3).ljust(6), end = " ")
+            print(j.rjust(3).ljust(4), end = "")
 
 harbors = ["3:1", "3:1", "3:1", "3:1", "2:1 Pasture", "2:1 Wood", "2:1 Wool", "2:1 Clay", "2:1 Ore", "2:1 Grain"]
 random.shuffle(harbors)
