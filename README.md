@@ -6,6 +6,7 @@ A Catan map generator.
 - Base Game
 - Cities and Knights
 - Seafarers
+- Base Game 5-6 Player _Expansion_
 
 ### What the emojis mean:
 🌵 = Desert 
@@ -65,4 +66,32 @@ Numbers:
 ~  9  ~  3  ~  ~  3
    ~  6  ~  6  ~  11
    ~  ~  3  8  ~
+```
+
+### Catan Main Game 5-6 Expansion
+
+```
+Catan Main Game 5-6 Player Board: 
+
+       🌳 🐑 🐑
+      🗻 🐑 🌾 🌳
+     🌳 🌳 🗻 🌵 🌾
+    🌾 🗻 🌵 🌳 🧱 🌾
+     🗻 🧱 🐑 🌾 🧱
+      🐑 🐑 🗻 🌳
+       🧱 🌾 🧱
+
+
+Numbers:
+
+                5      6     10
+                3     11      3     10
+         9     11      5      🌵      4
+        12      8      🌵      4      6      3
+         4      9      8      2     12
+                5      2      8      6
+               11     10      9
+
+Harbors starting from the 2:1 Clay Harbor:
+⚓ 2:1 Grain  ⚓ 2:1 Pasture  ⚓ 2:1 Pasture  ⚓ 3:1  ⚓ 2:1 Clay  ⚓ 3:1  ⚓ 2:1 Ore  ⚓ 3:1  ⚓ 3:1  ⚓ 3:1  ⚓ 2:1 Wood  ⚓ 2:1 Wool
 ```
