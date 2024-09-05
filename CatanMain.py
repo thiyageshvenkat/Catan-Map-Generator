@@ -42,3 +42,9 @@ for i in range(len(board_numbers)):
         print("  ")
         for j in board_numbers[i]:
             print(j.rjust(3).ljust(6), end = " ")
+
+harbors = ["3:1", "3:1", "3:1", "3:1", "2:1 Pasture", "2:1 Wood", "2:1 Wool", "2:1 Clay", "2:1 Ore", "2:1 Grain"]
+random.shuffle(harbors)
+print("\n\nHarbors starting from the 2:1 Clay Harbor:")
+for i in harbors:
+    print("⚓", i, end = "  ")
