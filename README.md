@@ -7,7 +7,7 @@ A Catan map generator.
 - Cities and Knights
 - Seafarers
 - Base Game 5-6 Player _Expansion_
-
+- Seafarers 5-6 Player _Expansion_
 ### What the emojis mean:
 🌵 = Desert 
 🌊 = Sea 
